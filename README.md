@@ -5,8 +5,8 @@ ________________________________________________________________________________
               Rendered a scene, camera, and lighting. Players had to defend themselves from asteroids. Materials, meshes, realistic lighting, and shadow-mapping 
               were used.
 
- Basic Coding Language & VM - A basic PL/0 coding language. Basic PL/0 assembly language: {}. Basic VM. Basic PL/0 compiler {}.
-
+ Basic Coding Language & VM - A basic PL/0 coding language.
+ 
  Virtual Stack - An app that is meant to bring business cards up to modern time utilizing your smart phones and QR codes.Developed in Java while using Android Studios
                  for the frontend of an android application. Creating and linking activities that communicate with an API that was managing our connection to a database
                  we set up.
